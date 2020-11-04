@@ -1,5 +1,7 @@
 public class Encry {
+    
     public static void main(String[] args) throws Exception {
+
         int key = 6;
 
         String text = "Start the Attack!";

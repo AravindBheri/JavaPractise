@@ -1,5 +1,7 @@
 public class Decry {
+    
     public static void main(String[] args) throws Exception {
+
         int key = 6;
 
         String text = "Yzgxz&znk&Gzzgiq'";
