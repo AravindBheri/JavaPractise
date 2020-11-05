@@ -10,6 +10,11 @@ import javax.swing.event.ChangeListener;
 
 public class MyFrame extends JFrame implements ChangeListener {
 
+    /**
+     *
+     */
+    private static final long serialVersionUID = 1L;
+    
     JFrame frame = new JFrame("Sliders");
     JPanel panel;
     JLabel label;
