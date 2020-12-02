@@ -5,6 +5,10 @@ import javax.swing.JProgressBar;
 
 public class MyFrame extends JFrame {
 
+    /**
+     *
+     */
+    private static final long serialVersionUID = 1L;
     JFrame frame;
     JProgressBar progressBar = new JProgressBar();
 
