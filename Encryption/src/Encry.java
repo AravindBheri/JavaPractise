@@ -1,3 +1,5 @@
+package Encryption.src;
+
 public class Encry {
     
     public static void main(String[] args) throws Exception {

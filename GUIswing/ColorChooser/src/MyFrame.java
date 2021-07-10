@@ -1,3 +1,5 @@
+package GUIswing.ColorChooser.src;
+
 import javax.swing.JButton;
 import javax.swing.JColorChooser;
 import javax.swing.JFrame;

@@ -1,3 +1,5 @@
+package GUIswing.AnimationGUI.src;
+
 import javax.swing.*;
 
 public class MyFrame extends JFrame {
@@ -6,7 +8,7 @@ public class MyFrame extends JFrame {
 
     MyPanel panel;
 
-    MyFrame() {
+    public MyFrame() {
 
         panel = new MyPanel();
 

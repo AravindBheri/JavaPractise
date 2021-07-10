@@ -1,3 +1,5 @@
+package GUIswing.OpeningWindowFromaWindow.src;
+
 import java.awt.Font;
 
 import javax.swing.JFrame;

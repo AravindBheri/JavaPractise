@@ -1,3 +1,5 @@
+package Palindrome.src;
+
 public class PalindromesRFun {
 
     public static void main(String[] args) {
